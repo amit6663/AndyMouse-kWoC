@@ -20,6 +20,6 @@ the client side is based on this blog. no need to go deeper into this blog. just
 ### setup
 to setup the project first clone the sensor.py as a simple python code. Install **pyautogui** and **bottle** libraries. then run the sensor.py file.
 
-for the server side clone the andymouse folder and then open it in android studio, run the app in your phone. **now both the phone and the server side laptop should be connect with same wifi network** so that the app can access the server. now see the ip address of your server side laptop and write it on your app( in the format ```10.15.22.129```)
+for the server side clone the andymouse folder and then open it in android studio, run the app in your phone. **now both the phone and the server side laptop should be connect with same wifi network** so that the app can access the server. now see the ip address of your server side laptop and write it on your app( in the format ```10.15.22.129```) the default port is given 8080. now press the start button. the server will get data from app and by tilting the mobile you can control the mouse pointer. 2 buttons are there for left and right button.
 
 
