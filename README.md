@@ -17,4 +17,9 @@ we used pyautogui python library to move the mouse pointer and the slide changes
 ### For the client side(app) follow [this](https://hmkcode.com/android-send-json-data-to-server/) blog
 the client side is based on this blog. no need to go deeper into this blog. just try find out the major code parts.
 
+### setup
+to setup the project first clone the sensor.py as a simple python code. Install **pyautogui** and **bottle** libraries. then run the sensor.py file.
+
+for the server side clone the andymouse folder and then open it in android studio, run the app in your phone. **now both the phone and the server side laptop should be connect with same wifi network** so that the app can access the server. now see the ip address of your server side laptop and write it on your app( in the format ```10.15.22.129```)
+
 
